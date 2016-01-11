@@ -1,0 +1,21 @@
+{
+  "name": "btnled",
+  "version": "1.0.0",
+  "description": "Node + Johnny Five Arduino Project",
+  "main": "led.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arduino",
+    "node",
+    "johnny",
+    "five"
+  ],
+  "author": "Noah Glaser",
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "^0.9.17",
+    "underscore": "^1.8.3"
+  }
+}
